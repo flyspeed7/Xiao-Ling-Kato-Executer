@@ -194,7 +194,7 @@ IntroductionPage.BorderSizePixel = 0
 IntroductionPage.Position = UDim2.new(0.5, 0, 0.5, 0)
 IntroductionPage.Size = UDim2.new(0, 175, 0, 145)
 
-Logo.Name = "Logo"
+Logo.Name = "只汉化了卡密"
 Logo.Parent = IntroductionPage
 Logo.AnchorPoint = Vector2.new(0.5, 0)
 Logo.BackgroundColor3 = Color3.new(1, 1, 1)
@@ -232,7 +232,7 @@ KeySysFrame.BorderSizePixel = 0
 KeySysFrame.Position = UDim2.new(0.5, 0, 1, -8)
 KeySysFrame.Size = UDim2.new(1, -16, 0, 100)
 
-Validate.Name = "Validate"
+Validate.Name = "小凌-检查"
 Validate.Parent = KeySysFrame
 Validate.AnchorPoint = Vector2.new(0, 1)
 Validate.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
@@ -249,7 +249,7 @@ Validate.TextWrapped = true
 UICorner.Parent = Validate
 UICorner.CornerRadius = UDim.new(0, 4)
 
-GetKey.Name = "GetKey"
+GetKey.Name = "小凌-获取卡密"
 GetKey.Parent = KeySysFrame
 GetKey.AnchorPoint = Vector2.new(1, 1)
 GetKey.BackgroundColor3 = Color3.new(0.117647, 0.117647, 0.117647)
